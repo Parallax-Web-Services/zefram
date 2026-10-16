@@ -2994,12 +2994,12 @@
             "source": {
                 "type": "git",
                 "url": "https://gitlab.com/parallax-web-services/cli.git",
-                "reference": "f411eed40df16eee9ffffe1980c8eef03fab2ca5"
+                "reference": "0af6a7b4b96e3d1ad54f83eef8be15f5e48d59c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://gitlab.com/api/v4/projects/parallax-web-services%2Fcli/repository/archive.zip?sha=f411eed40df16eee9ffffe1980c8eef03fab2ca5",
-                "reference": "f411eed40df16eee9ffffe1980c8eef03fab2ca5",
+                "url": "https://gitlab.com/api/v4/projects/parallax-web-services%2Fcli/repository/archive.zip?sha=0af6a7b4b96e3d1ad54f83eef8be15f5e48d59c9",
+                "reference": "0af6a7b4b96e3d1ad54f83eef8be15f5e48d59c9",
                 "shasum": ""
             },
             "require": {
@@ -3061,7 +3061,7 @@
             "support": {
                 "source": "https://gitlab.com/parallax-web-services/cli/-/tree/master"
             },
-            "time": "2026-09-22T21:48:24-04:00"
+            "time": "2026-10-15T23:58:42-04:00"
         },
         {
             "name": "phpoption/phpoption",
